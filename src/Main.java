@@ -14,7 +14,7 @@ class Main {
         }
         Editor edit=new Editor(l);
         sc=new Scanner(System.in);
-        while(true)      
+        while(true)
         {
             System.out.println("S - Save and Exit");
             System.out.println("F - Move Forward");
