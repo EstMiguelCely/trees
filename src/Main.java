@@ -40,7 +40,7 @@ class Main {
         }
         edit.writer.close();
     }
-}
+}   
 class Editor {
     LinkedList<StringBuilder> l;
     int node,position;
